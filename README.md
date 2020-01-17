@@ -12,15 +12,23 @@ There are three different ESoWC streams under which you can submit a proposal:
 ### Stream 1 - Weather-related software and applications
 Are you a weather enthusiast, software developer or a data wrangler? Challenges proposed related to the development of weather-related software and applications are:
 
-|Challenge name|Challenge goal|
-|-------|-------|
-|[Challenge #11 - Creating Jupyter-based OpenIFS training material](https://github.com/esowc/challenges_2020/issues/1)|Developing interactive cloud-based training material.|
+
+* [Challenge #11 - Creating Jupyter-based OpenIFS training material](https://github.com/esowc/challenges_2020/issues/1)
+* [Challenge #12 - Performance-portable implementation of ECRad in Julia](https://github.com/esowc/challenges_2020/issues/2)
+* [Challenge #13 - Interactive visualization of HPC performance data](https://github.com/esowc/challenges_2020/issues/3)
+* [Challenge #14 - Size, precision, speed -pick two](https://github.com/esowc/challenges_2020/issues/4)
 
 
 
 ### Stream 2 - Machine-Learning and Artificial Intelligence
 Are you a Machine Learning enthusiast or a Data Scientist? Have a look at the challenges related to Machine Learning and Artificial Intelligence:
 
+* [Challenge #21 - Exploring or machine/deep learning techniques to detect and track tropical cyclones](https://github.com/esowc/challenges_2020/issues/5)
+* [Challenge #22 - Applying AI capabilities to address Operations challenges in ECMWF Products Team](https://github.com/esowc/challenges_2020/issues/6)
+* [Challenge #23 - What is an optimal number of vertical model levels to represent atmospheric trace gases](https://github.com/esowc/challenges_2020/issues/7)
+* [Challenge #24 - A simple Global Air Quality Data Classification](https://github.com/esowc/challenges_2020/issues/8)
+* [Challenge #25 - Virtual assistant for users of ECMWF online products and services](https://github.com/esowc/challenges_2020/issues/9)
+* [Challenge #26 - Forecasting wildfire danger using deep learning](https://github.com/esowc/challenges_2020/issues/8)
 
 
 
@@ -37,4 +45,4 @@ Do you have a project idea that makes use of ECMWF or Copernicus data but you wo
 * Submit your application
 
 * ESoWC Terms & Conditions
-* Follow ESoWC on Twitter, LinkedIn and Facebook
+* Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf), [LinkedIn](https://www.linkedin.com/showcase/ecmwf-summer-of-weather-code/) and [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow)
