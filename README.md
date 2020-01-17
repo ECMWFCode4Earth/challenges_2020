@@ -12,6 +12,9 @@ There are three different ESoWC streams under which you can submit a proposal:
 ### Stream 1 - Weather-related software and applications
 Are you a weather enthusiast, software developer or a data wrangler? Challenges proposed related to the development of weather-related software and applications are:
 
+|Challenge name|Challenge goal|
+|-------|-------|
+|[Challenge #11 - Creating Jupyter-based OpenIFS training material](https://github.com/esowc/challenges_2020/issues/1)|Developing interactive cloud-based training material.|
 
 
 
