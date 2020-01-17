@@ -33,12 +33,13 @@ Are you a Machine Learning enthusiast or a Data Scientist? Have a look at the ch
 
 
 
-### Stream 3 - Cloud-based weather and climate innovations<sup>2</sup>)
+### Stream 3 - Cloud-based weather and climate innovations<sup>2)</sup>
 Do you have a project idea that makes use of ECMWF or Copernicus data but you would need cloud processing resources to process the data? You can apply for AWS cloud credits of up to $5000 for your own project idea. The only requirement is that your project has to be related to a weather, climate or atmospheric application.
 
+<br>
 
-1) *Successful projects under stream 1) and stream 2) will be eligible to a stipend of £5000 and if applicable, AWS or WEkEO cloud credits. Please see the detailed challenge descriptions for more details.*
-2) *Under stream 3) you are eligible to apply for AWS cloud credits only.*
+<font size=4em>1) *Successful projects under stream 1) and stream 2) will be eligible to a stipend of £5000 and if applicable, AWS or WEkEO cloud credits. Please see the detailed challenge descriptions for more details.*</font>
+<font size=4em>2) *Under stream 3) you are eligible to apply for AWS cloud credits only.*</font>
 
 <br>
 
