@@ -38,7 +38,7 @@ Do you have a project idea that makes use of ECMWF or Copernicus data but you wo
 <br>
 
 #### Note
-<font size="8pt">1) *Successful projects under Stream 1) and Stream 2) will be eligible to a stipend of £5000 and if applicable, AWS or WEkEO cloud credits. Please see the detailed challenge descriptions for more details.*</font><br>
+<font size="8pt">1) *Successful projects under Stream 1) and Stream 2) will be eligible to a stipend of £5000 and if applicable, to apply for AWS or WEkEO cloud credits. Please see the detailed challenge descriptions for more details.*</font><br>
 <font size="8pt">2) *Under Stream 3) you are eligible to apply for AWS cloud credits only.*</font>
 
 <br>
