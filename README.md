@@ -11,8 +11,7 @@ There are three different ESoWC streams under which you can submit a proposal:
 
 
 ### Stream 1 - Weather-related software and applications<sup>1)</sup>
-Are you a weather enthusiast, software developer or a data wrangler? Challenges proposed related to the development of weather-related software and applications are:
-
+Are you a weather enthusiast, software developer or a data wrangler? Have a look at the challenges related to the development of weather-related software and applications:
 
 * [Challenge #11 - Creating Jupyter-based OpenIFS training material](https://github.com/esowc/challenges_2020/issues/1)
 * [Challenge #12 - Performance-portable implementation of ECRad in Julia](https://github.com/esowc/challenges_2020/issues/2)
@@ -46,8 +45,20 @@ Do you have a project idea that makes use of ECMWF or Copernicus data but you wo
 
 ## How it works
 
+### 1. Application period: 27 Jan - 22 Apr 2020
+Browse through the [ESoWC 2020 challenges](https://github.com/esowc/challenges_2020/issues) or develop your own project idea. You have time until 22 April 2020 to submit your proposal. <br> Take advantage of Github, ask questions and tailor your submission, together with the mentors of the challenge.
+
+--> [Submit your proposal]
+
+### 2. Announcement of selected proposals: 1 May 2020
+The final ESoWC 2020 project teams will be announced on 1 May 2020. Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf) or visit the [ESoWC website](https://esowc.ecmwf.int) and get all updates.
 
 
+### 3. Coding period: 4 May  - 31 Aug 2020
+The 4-month long coding period starts 4 May 2020 and last until 31 August 2020. During this time, the selected teams team up with experienced mentors and experts in weather, climate, machine-learning and cloud-computing. <br> Follow the progress of the projects here on Github.
+
+### 4. Final ESoWC day @ECMWF: 18 September 2020
+The ESoWC day @ECMWF is the final day of the programme. All project teams are invited to come to ECMWF’s headquarter to present their project and results and to meet their mentors. The presentations will be live-streamed.
 
 <br>
 
