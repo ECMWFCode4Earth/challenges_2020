@@ -10,7 +10,7 @@ Team up with Meteorology, Climate, Atmosphere, Machine-Learning and Cloud Comput
 There are three different ESoWC streams under which you can submit a proposal: 
 
 
-### Stream 1 - Weather-related software and applications<sup>1)</sup>
+### [Stream 1 - Weather-related software and applications<sup>1)</sup>](https://github.com/esowc/challenges_2020/labels/stream-1)
 Are you a weather enthusiast, software developer or a data wrangler? Have a look at the challenges related to the development of weather-related software and applications:
 
 * [Challenge #11 - Creating Jupyter-based OpenIFS training material](https://github.com/esowc/challenges_2020/issues/1)
@@ -20,7 +20,7 @@ Are you a weather enthusiast, software developer or a data wrangler? Have a look
 
 
 
-### Stream 2 - Machine-Learning and Artificial Intelligence<sup>1)</sup>
+### [Stream 2 - Machine-Learning and Artificial Intelligence<sup>1)</sup>](https://github.com/esowc/challenges_2020/labels/stream-2)
 Are you a Machine Learning enthusiast or a Data Scientist? Have a look at the challenges related to Machine Learning and Artificial Intelligence:
 
 * [Challenge #21 - Exploring or machine/deep learning techniques to detect and track tropical cyclones](https://github.com/esowc/challenges_2020/issues/5)
