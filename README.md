@@ -28,7 +28,7 @@ Are you a Machine Learning enthusiast or a Data Scientist? Have a look at the ch
 * [Challenge #23 - What is an optimal number of vertical model levels to represent atmospheric trace gases](https://github.com/esowc/challenges_2020/issues/7)
 * [Challenge #24 - A simple Global Air Quality Data Classification](https://github.com/esowc/challenges_2020/issues/8)
 * [Challenge #25 - Virtual assistant for users of ECMWF online products and services](https://github.com/esowc/challenges_2020/issues/9)
-* [Challenge #26 - Forecasting wildfire danger using deep learning](https://github.com/esowc/challenges_2020/issues/8)
+* [Challenge #26 - Forecasting wildfire danger using deep learning](https://github.com/esowc/challenges_2020/issues/10)
 
 
 
