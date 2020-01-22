@@ -59,12 +59,12 @@ You can apply for AWS cloud credits of up to $5000 for your own project idea. Th
 ### 1. Application period: 27 Jan - 22 Apr 2020
 Browse through the [ESoWC 2020 challenges](https://github.com/esowc/challenges_2020/issues) or develop your own project idea. You have time until 22 April 2020 to submit your proposal. <br> Take advantage of Github, ask questions and tailor your submission, together with the mentors of the challenge.
 
-Some tips on what makes a good proposal:
-- it is well structured and precise
-- the solution proposed is technically feasible within 4 months
-- it contains a clear timeline with milestones and deliverables
+##### Some tips on what makes a good proposal:
+- it is **well structured and precise**
+- the solution proposed is **technically feasible within 4 months**
+- it contains a **clear timeline with milestones and deliverables defined**
 
-Proposals will be evaluated based on:
+##### Proposals will be evaluated based on:
 - Comprehensibility
 - Clarity and structure
 - Feasibility
