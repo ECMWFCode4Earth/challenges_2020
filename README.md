@@ -2,6 +2,7 @@
 
 ECMWF Summer of Weather Code is a collaborative programme where each summer several developer teams work on innovative weather- and climate-related open-source software. ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](www.ecmwf.int).
 
+<br>
 ![ESoWC-2020-v6.png](https://github.com/esowc/challenges_2020/blob/master/ESoWC-2020-v6.png)
 
 <br>
@@ -9,19 +10,23 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 ## ESoWC 2020 Challenge Streams
 There are three different ESoWC streams under which you can submit a proposal: 
 
-
+<span style=float:left><img src='./stream_1.png' alt='Stream 1 icon' align='left' width='100'></img></span> 
 ### [Stream 1 - Weather-related software and applications<sup>1)</sup>](https://github.com/esowc/challenges_2020/labels/stream-1)
 Are you a weather enthusiast, software developer or a data wrangler? Have a look at the challenges related to the development of weather-related software and applications:
 
+<br>
 * [Challenge #11 - Creating Jupyter-based OpenIFS training material](https://github.com/esowc/challenges_2020/issues/1)
 * [Challenge #12 - Performance-portable implementation of ECRad in Julia](https://github.com/esowc/challenges_2020/issues/2)
 * [Challenge #13 - Interactive visualization of HPC performance data](https://github.com/esowc/challenges_2020/issues/3)
 * [Challenge #14 - Size, precision, speed -pick two](https://github.com/esowc/challenges_2020/issues/4)
 
+<br>
 
-
+<span style=float:left><img src='./stream_2.png' alt='Stream 2 icon' align='left' width='100'></img></span> 
 ### [Stream 2 - Machine-Learning and Artificial Intelligence<sup>1)</sup>](https://github.com/esowc/challenges_2020/labels/stream-2)
 Are you a Machine Learning enthusiast or a Data Scientist? Have a look at the challenges related to Machine Learning and Artificial Intelligence:
+
+<br>
 
 * [Challenge #21 - Exploring or machine/deep learning techniques to detect and track tropical cyclones](https://github.com/esowc/challenges_2020/issues/5)
 * [Challenge #22 - Applying AI capabilities to address Operations challenges in ECMWF Products Team](https://github.com/esowc/challenges_2020/issues/6)
@@ -30,10 +35,14 @@ Are you a Machine Learning enthusiast or a Data Scientist? Have a look at the ch
 * [Challenge #25 - Virtual assistant for users of ECMWF online products and services](https://github.com/esowc/challenges_2020/issues/9)
 * [Challenge #26 - Forecasting wildfire danger using deep learning](https://github.com/esowc/challenges_2020/issues/10)
 
+<br>
 
-
+<span style=float:left><img src='./stream_3.png' alt='Stream 3 icon' align='left' width='100'></img></span> 
 ### Stream 3 - Cloud-based weather and climate innovations<sup>2)</sup>
-Do you have a project idea that makes use of ECMWF or Copernicus data but you would need cloud processing resources to process the data? You can apply for AWS cloud credits of up to $5000 for your own project idea. The only requirement is that your project has to be related to a weather, climate or atmospheric application.
+Do you have a project idea that makes use of ECMWF or Copernicus data but you would need cloud processing resources to process the data? 
+
+<br>
+You can apply for AWS cloud credits of up to $5000 for your own project idea. The only requirement is that your project has to be related to a weather, climate or atmospheric application.
 
 <br>
 
@@ -54,10 +63,6 @@ Some tips on what makes a good proposal:
 - it contains a clear timeline with milestones and deliverables
 
 Proposals will be evaluated based on:
-- Quality, clarity and structure
-- Feasibility
-- Innovative approach (if applicable)
-
 - Comprehensibility
 - Clarity and structure
 - Feasibility
