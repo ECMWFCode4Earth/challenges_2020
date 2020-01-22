@@ -11,7 +11,7 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 ## ESoWC 2020 Challenge Streams
 There are three different ESoWC streams under which you can submit a proposal: 
 
-<span style=float:left><img src='./stream_1.png' alt='Stream 1 icon' align='left' width='100'></img></span> 
+<span style=float:left><img src='./stream_1.png' alt='Stream 1 icon' align='left' width='110'></img></span> 
 ### [Stream 1 - Weather-related software and applications<sup>1)</sup>](https://github.com/esowc/challenges_2020/labels/stream-1)
 Are you a weather enthusiast, software developer or a data wrangler? Have a look at the challenges related to the development of weather-related software and applications:
 
@@ -24,7 +24,7 @@ Are you a weather enthusiast, software developer or a data wrangler? Have a look
 
 <br>
 
-<span style=float:left><img src='./stream_2.png' alt='Stream 2 icon' align='left' width='100'></img></span> 
+<span style=float:left><img src='./stream_2.png' alt='Stream 2 icon' align='left' width='110'></img></span> 
 ### [Stream 2 - Machine-Learning and Artificial Intelligence<sup>1)</sup>](https://github.com/esowc/challenges_2020/labels/stream-2)
 Are you a Machine Learning enthusiast or a Data Scientist? Have a look at the challenges related to Machine Learning and Artificial Intelligence:
 
