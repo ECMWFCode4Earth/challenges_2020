@@ -39,11 +39,11 @@ Are you a Machine Learning enthusiast or a Data Scientist? Have a look at the ch
 
 <br>
 
-<span style=float:left><img src='./stream_3.png' alt='Stream 3 icon' align='left' width='100'></img></span> 
+<span style=float:left><img src='./stream_3.png' alt='Stream 3 icon' align='left' width='110'></img></span> 
 ### Stream 3 - Cloud-based weather and climate innovations<sup>2)</sup>
 Do you have a project idea that makes use of ECMWF or Copernicus data but you would need cloud processing resources to process the data? 
 
-<br>
+
 You can apply for AWS cloud credits of up to $5000 for your own project idea. The only requirement is that your project has to be related to a weather, climate or atmospheric application.
 
 <br>
