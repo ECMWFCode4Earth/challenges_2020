@@ -3,6 +3,7 @@
 ECMWF Summer of Weather Code is a collaborative programme where each summer several developer teams work on innovative weather- and climate-related open-source software. ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](www.ecmwf.int).
 
 <br>
+
 ![ESoWC-2020-v6.png](https://github.com/esowc/challenges_2020/blob/master/ESoWC-2020-v6.png)
 
 <br>
@@ -15,6 +16,7 @@ There are three different ESoWC streams under which you can submit a proposal:
 Are you a weather enthusiast, software developer or a data wrangler? Have a look at the challenges related to the development of weather-related software and applications:
 
 <br>
+
 * [Challenge #11 - Creating Jupyter-based OpenIFS training material](https://github.com/esowc/challenges_2020/issues/1)
 * [Challenge #12 - Performance-portable implementation of ECRad in Julia](https://github.com/esowc/challenges_2020/issues/2)
 * [Challenge #13 - Interactive visualization of HPC performance data](https://github.com/esowc/challenges_2020/issues/3)
