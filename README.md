@@ -1,6 +1,6 @@
 # ECMWF Summer of Weather Code 2020
 
-ECMWF Summer of Weather Code is a collaborative programme where each summer several developer teams work on innovative weather- and climate-related open-source software.
+ECMWF Summer of Weather Code is a collaborative programme run by the [European Centre for Medium-Range Weather Forecasts (ECMWF](www.ecmwf.int), where each summer several developer teams work on innovative weather- and climate-related open-source software.
 
 Team up with Meteorology, Climate, Atmosphere, Machine-Learning and Cloud Computing experts to develop innovative open-source software.
 
@@ -38,8 +38,8 @@ Do you have a project idea that makes use of ECMWF or Copernicus data but you wo
 <br>
 
 #### Note
-<font size="8pt">1) *Successful projects under Stream 1) and Stream 2) will be eligible to a stipend of £5000 and if applicable, to apply for AWS or WEkEO cloud credits. Please see the detailed challenge descriptions for more details.*</font><br>
-<font size="8pt">2) *Under Stream 3) you are eligible to apply for AWS cloud credits only.*</font>
+<font size="8pt">1) *Successful projects under Stream 1) and Stream 2) will be eligible to a stipend of £5000 and if applicable, to apply for AWS or WEkEO cloud credits. Please see the detailed challenge descriptions for more details. Terms and Conditions apply.*</font><br>
+<font size="8pt">2) *Under Stream 3) you are eligible to apply for AWS cloud credits only. Terms and Conditions apply.*</font>
 
 <br>
 
@@ -48,7 +48,18 @@ Do you have a project idea that makes use of ECMWF or Copernicus data but you wo
 ### 1. Application period: 27 Jan - 22 Apr 2020
 Browse through the [ESoWC 2020 challenges](https://github.com/esowc/challenges_2020/issues) or develop your own project idea. You have time until 22 April 2020 to submit your proposal. <br> Take advantage of Github, ask questions and tailor your submission, together with the mentors of the challenge.
 
---> [Submit your proposal]
+Some tips on what makes a good proposal:
+- it is well structured and precise
+- the solution proposed is technically feasible within 4 months
+- it contains a clear timeline with milestones and deliverables
+
+Proposals will be evaluated based on:
+- Quality, clarity and structure
+- Feasibility
+- Innovative approach (if applicable)
+
+Ready? 
+--> [Submit your proposal] now!
 
 ### 2. Announcement of selected proposals: 1 May 2020
 The final ESoWC 2020 project teams will be announced on 1 May 2020. Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf) or visit the [ESoWC website](https://esowc.ecmwf.int) and get all updates.
