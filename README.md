@@ -49,15 +49,15 @@ You can apply for AWS cloud credits of up to $5000 for your own project idea. Th
 <br>
 
 #### Note
-<font size="8pt">1) *Successful projects under Stream 1) and Stream 2) will be eligible to a stipend of £5000 and if applicable, to apply for AWS or WEkEO cloud credits. Please see the detailed challenge descriptions for more details. Terms and Conditions apply.*</font><br>
-<font size="8pt">2) *Under Stream 3) you are eligible to apply for AWS cloud credits only. Terms and Conditions apply.*</font>
+<font size="8pt">1) *Successful projects under Stream 1) and Stream 2) will be eligible to a stipend of £5000 and if applicable, to apply for AWS or WEkEO cloud credits. Please see the detailed challenge descriptions for more details. [Terms and Conditions](http://esowc.ecmwf.int/terms-and-conditions) apply.*</font><br>
+<font size="8pt">2) *Under Stream 3) you are eligible to apply for AWS cloud credits only. [Terms and Conditions](http://esowc.ecmwf.int/terms-and-conditions) apply.*</font>
 
 <br>
 
 ## How it works
 
 ### 1. Application period: 27 Jan - 22 Apr 2020
-Browse through the [ESoWC 2020 challenges](https://github.com/esowc/challenges_2020/issues) or develop your own project idea. You have time until 22 April 2020 to submit your proposal. <br> Take advantage of Github, ask questions and tailor your submission, together with the mentors of the challenge.
+Browse through the [ESoWC 2020 challenges](https://github.com/esowc/challenges_2020/issues) or develop your own project idea. You have time until 22 April 2020 to submit your proposal. <br> Take advantage of GitHub, ask questions and tailor your submission, together with the mentors of the challenge.
 
 ##### Some tips on what makes a good proposal:
 - it is **well structured and precise**
@@ -73,7 +73,7 @@ Browse through the [ESoWC 2020 challenges](https://github.com/esowc/challenges_2
 - Transferability (if applicable)
 
 Ready? 
---> [Submit your proposal] now!
+--> [Submit your proposal](https://esowc.commpla.com/form/application-form) now!
 
 ### 2. Announcement of selected proposals: 1 May 2020
 The final ESoWC 2020 project teams will be announced on 1 May 2020. Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf) or visit the [ESoWC website](https://esowc.ecmwf.int) and get all updates.
@@ -88,8 +88,8 @@ The ESoWC day @ECMWF is the final day of the programme. All project teams are in
 <br>
 
 ## Important links
-* ESoWC Frequently Asked Questions
-* Submit your application
+* [ESoWC Frequently Asked Questions](http://esowc.ecmwf.int/FAQ)
+* [Submit your application](https://esowc.commpla.com/form/application-form)
 
-* ESoWC Terms & Conditions
+* [ESoWC Terms & Conditions](http://esowc.ecmwf.int/terms-and-conditions)
 * Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf), [LinkedIn](https://www.linkedin.com/showcase/ecmwf-summer-of-weather-code/) and [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow)
