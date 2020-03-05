@@ -46,6 +46,8 @@ Do you have a project idea that makes use of ECMWF or Copernicus data but you wo
 
 You can apply for AWS cloud credits of up to $5000 for your own project idea. The only requirement is that your project has to be related to a weather, climate or atmospheric application. Don't forget to specify in your proposal the amount of AWS cloud credits ([AWS Simply Monthly calculator](https://calculator.s3.amazonaws.com/index.html)).
 
+Ask any question related to stream 3 [here](https://github.com/esowc/challenges_2020/issues/11).
+
 <br>
 
 #### Note
