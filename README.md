@@ -40,7 +40,7 @@ Are you a Machine Learning enthusiast or a Data Scientist? Have a look at the ch
 <br>
 
 <span style=float:left><img src='./stream_3.png' alt='Stream 3 icon' align='left' width='110'></img></span> 
-### Stream 3 - Cloud-based weather and climate innovations<sup>2)</sup>
+### [Stream 3 - Cloud-based weather and climate innovations<sup>2)</sup>](https://github.com/esowc/challenges_2020/labels/stream-3)
 Do you have a project idea that makes use of ECMWF or Copernicus data but you would need cloud processing resources to process the data? 
 
 
