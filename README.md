@@ -4,7 +4,7 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 
 <br>
 
-![ESoWC-2020-v6.png](https://github.com/esowc/challenges_2020/blob/master/ESoWC-2020-v6.png)
+![ESoWC-2020-v6.png](https://github.com/esowc/challenges_2020/blob/master/ESoWC-1024x512px-NEW-v2.jpg)
 
 <br>
 
