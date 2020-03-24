@@ -4,10 +4,15 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 
 <br>
 
-<img src='./esowc_ask_me_anything.png' alt='ESoWC AMA' align='left' width='120%'></img>
+### Join the ESoWC 2020 Ask Me Anything LIVE Webinar | 1 April, 2pm (CET) | Register [here](https://esowc.ecmwf.int/ama) <br> 
+
 
 <br>
+
+<img src='./esowc_ask_me_anything.png' alt='ESoWC AMA' align='center' width='100%'></img>
+
 <br>
+
 
 ## ESoWC 2020 Challenge Streams
 There are three different ESoWC streams under which you can submit a proposal: 
