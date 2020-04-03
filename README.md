@@ -4,12 +4,12 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 
 
 
-### Join the ESoWC 2020 Ask Me Anything LIVE Webinar | 1 April, 2pm (CET) | Register [here](https://esowc.ecmwf.int/ama) <br> 
+### Join the ESoWC 2020 Ask Me Anything LIVE Webinar | 8 April, 2pm (CET) | Register [here](https://esowc.ecmwf.int/ama) <br> 
 
 
 <br>
 
-<img src='./esowc_ask_me_anything.png' alt='ESoWC AMA' align='center' width='100%'></img>
+<img src='./esowc_ask_me_anything_2.png' alt='ESoWC AMA' align='center' width='100%'></img>
 
 <br>
 
