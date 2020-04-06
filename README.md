@@ -80,6 +80,13 @@ Browse through the [ESoWC 2020 challenges](https://github.com/esowc/challenges_2
 - Innovative approach (if applicable)
 - Transferability (if applicable)
 
+##### An example structure of a proposal could be:
+1. Brief description of the problem to be solved
+2. Proposed solution (including software tools and services (e.g. AWS tools, WEkEO services) and data you want to use)
+3. Key milestones and deliverables
+4. Timeline
+5. Plans to share the project outcomes
+
 Ready? 
 --> [Submit your proposal](https://esowc.commpla.com/form/application-form) now!
 
