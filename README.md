@@ -4,7 +4,7 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 
 
 
-### Application deadline: Wed, 22 April 23:59 (BST) | Submit your proposal [here](https://esowc.commpla.com/form/application-form) <br> 
+### Application deadline: Wed, 22 April 2020 23:59 (BST) | Submit your proposal [here](https://esowc.commpla.com/form/application-form) <br> 
 
 
 <br>
