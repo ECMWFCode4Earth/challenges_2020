@@ -42,7 +42,7 @@ Generous cloud computing ressources are provided by:
 Browse through the [ESoWC 2020 challenges](https://github.com/esowc/challenges_2020/issues) or develop your own project idea. Applications for ESoWC 2020 closed 22 April 2020.
 
 ### 2. Announcement of selected proposals: 1 May 2020
-The final ESoWC 2020 project teams were announced on 1 May 2020. Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf) or visit the [ESoWC website](https://esowc.ecmwf.int) and get all updates.
+The final ESoWC 2020 project teams were announced on 1 May 2020.
 
 
 ### 3. Coding period: 4 May  - 31 Aug 2020
@@ -55,7 +55,5 @@ The ESoWC day @ECMWF is the final day of the programme, where each team will pre
 
 ## Important links
 * [ESoWC Frequently Asked Questions](http://esowc.ecmwf.int/FAQ)
-* [Submit your application](https://esowc.commpla.com/form/application-form)
-
 * [ESoWC Terms & Conditions](http://esowc.ecmwf.int/terms-and-conditions)
 * Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf), [LinkedIn](https://www.linkedin.com/showcase/ecmwf-summer-of-weather-code/) and [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow)
