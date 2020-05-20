@@ -39,22 +39,17 @@ Generous cloud computing ressources are provided by:
 ## How it works
 
 ### 1. Application period: 27 Jan - 22 Apr 2020
-Browse through the [ESoWC 2020 challenges](https://github.com/esowc/challenges_2020/issues) or develop your own project idea. You have time until 22 April 2020 to submit your proposal. <br> Take advantage of GitHub, ask questions and tailor your submission, together with the mentors of the challenge.
-
-##### Some tips on what makes a good proposal:
-- it is **well structured and precise**
-- the solution proposed is **technically feasible within 4 months**
-- it contains a **clear timeline with milestones and deliverables defined**
+Browse through the [ESoWC 2020 challenges](https://github.com/esowc/challenges_2020/issues) or develop your own project idea. Applications for ESoWC 2020 closed 22 April 2020.
 
 ### 2. Announcement of selected proposals: 1 May 2020
-The final ESoWC 2020 project teams will be announced on 1 May 2020. Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf) or visit the [ESoWC website](https://esowc.ecmwf.int) and get all updates.
+The final ESoWC 2020 project teams were announced on 1 May 2020. Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf) or visit the [ESoWC website](https://esowc.ecmwf.int) and get all updates.
 
 
 ### 3. Coding period: 4 May  - 31 Aug 2020
-The 4-month long coding period starts 4 May 2020 and last until 31 August 2020. During this time, the selected teams team up with experienced mentors and experts in weather, climate, machine-learning and cloud-computing. <br> Follow the progress of the projects here on Github.
+The 4-month long coding period started 4 May 2020 and lasts until 31 August 2020. During this time, the selected teams team up with experienced mentors and experts in weather, climate, machine-learning and cloud-computing. <br> Follow the progress of the projects here on Github.
 
 ### 4. Final ESoWC day @ECMWF: 25 September 2020
-The ESoWC day @ECMWF is the final day of the programme. All project teams are invited to come to ECMWF’s headquarter to present their project and results and to meet their mentors. The presentations will be live-streamed.
+The ESoWC day @ECMWF is the final day of the programme, where each team will present their project results.
 
 <br>
 
