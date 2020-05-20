@@ -3,8 +3,11 @@
 ECMWF Summer of Weather Code is a collaborative programme where each summer several developer teams work on innovative weather- and climate-related open-source software. ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](www.ecmwf.int) and supported by [Copernicus](climate.copernicus.eu). 
 
 Generous cloud computing ressources are provided by: 
-* <span style=float:left><img src='./aws.png' alt='AWS logo' align='left' width='110'></img></span>  [Amazon Web Services](https://aws.amazon.com/), and
-* <span style=float:left><img src='./wekeo.jpeg' alt='WEkEO logo' align='left' width='110'></img></span><span style=float:left><img src='./CloudFerro_logo_vertical.png' alt='cloudferro logo' width='180'></img></span> the Copernicus Data and Information Access Service (DIAS) [WEkEO](https://www.wekeo.eu/) powered by [CloudFerro](https://cloudferro.com/en/).
+* [Amazon Web Services](https://aws.amazon.com/)<br>
+<span style=left><img src='./aws.png' alt='AWS logo' align='left' width='90'></img></span> <br>
+
+* the Copernicus Data and Information Access Service (DIAS) [WEkEO](https://www.wekeo.eu/) powered by [CloudFerro](https://cloudferro.com/en/)<br>
+<span style=float:left><img src='./wekeo.jpeg' alt='WEkEO logo' align='left' width='120'></img></span><span style=float:left><img src='./CloudFerro_logo_vertical.png' alt='cloudferro logo' width='180'></img></span> 
 
 
 <br>
