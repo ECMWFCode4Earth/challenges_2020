@@ -23,7 +23,7 @@ Congratulations to the 11 teams that have been selected to be part of ECMWF Summ
 | Exploring of machine/deep learning <br>techniques to detect and <br>track tropical cyclines | [Ashwin Samudre](https://github.com/kiryteo) | [Linus Magnusson](https://github.com/linusmagnusson) <br> [Pedro Maciel](https://github.com/pmaciel) | [AWS](https://aws.amazon.com/) |
 | WeatherWise - <br>An innovative 11km weather prediction <br>model for Europe based on Meso-NH | Florian Cochard <br> Quentin Rodier | Jordan Rice <br>[Julia Wagemann](https://github.com/jwagemann) | [AWS](https://aws.amazon.com/) |
 | Applying AI capabilities <br>to address Operations challenges<br> in ECMWF Products Team | [Adithya Niranjan](https://github.com/Adithya-MN) <br> [Aditya Ahuja](https://github.com/adiah80)| [Matthew Manoussakis](https://github.com/Matthew-Manoussakis) <br> [Peter Dueben](https://github.com/dueben) | [AWS](https://aws.amazon.com/) |
-| Creating Jupyter-based OpenIFS training material | Ayush Prasad | [Olivier Marsden](https://github.com/marsdeno) <br> [Michael Lange](https://github.com/mlange05) <br> [Adrien Oyono](https://github.com/aoyono) | [AWS](https://aws.amazon.com/) |
+| Creating Jupyter-based <br>OpenIFS training material | [Ayush Prasad](https://github.com/ayushprd) | [Olivier Marsden](https://github.com/marsdeno) <br> [Michael Lange](https://github.com/mlange05) <br> [Adrien Oyono](https://github.com/aoyono) | [AWS](https://aws.amazon.com/) |
 | [UNSEEN-Open](https://github.com/esowc/UNSEEN-open) | [Timo Kelder](https://github.com/timokelder) | [Julia Wagemann](https://github.com/jwagemann) <br> Christel Prudhomme | |
 
 <br>
