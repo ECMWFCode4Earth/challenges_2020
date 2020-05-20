@@ -3,10 +3,6 @@
 ECMWF Summer of Weather Code is a collaborative programme where each summer several developer teams work on innovative weather- and climate-related open-source software. ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](www.ecmwf.int) and supported by [Copernicus](climate.copernicus.eu) and [Amazon Web Services](https://aws.amazon.com/).
 
 
-
-### Application phase is closed now. The ESoWC 2020 teams will be announced 1 May 2020. Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf) for all updates. <br> 
-
-
 <br>
 
 <img src='./ESoWC-1024x512px-NEW-v2.jpg' alt='ESoWC' align='center' width='100%'></img>
@@ -14,8 +10,16 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 <br>
 
 
-## ESoWC 2020 Challenge Streams
-There are three different ESoWC streams under which you can submit a proposal: 
+## ESoWC 2020 Projects
+Congratulations to the 11 teams that have been selected to be part of ECMWF Summer of Weather Code 2020:
+
+| Project title | Team | Mentors | Support |
+| ---------- | --------------- | -------------- |
+| [Elefridge.jl](https://github.com/esowc/Elefridge.jl) | Milan Kloewer | * Miha Razinger <br> * Juan-Jose Dominguez |
+
+
+
+
 
 <span style=float:left><img src='./stream_1.png' alt='Stream 1 icon' align='left' width='110'></img></span> 
 ### [Stream 1 - Weather-related software and applications<sup>1)</sup>](https://github.com/esowc/challenges_2020/labels/stream-1)
