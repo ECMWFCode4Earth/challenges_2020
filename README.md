@@ -2,11 +2,6 @@
 
 ECMWF Summer of Weather Code is a collaborative programme where each summer several developer teams work on innovative weather- and climate-related open-source software. ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](www.ecmwf.int) and supported by [Copernicus](climate.copernicus.eu). 
 
-Generous cloud computing ressources are provided by: 
-|the Copernicus DIAS service [WEkEO](https://www.wekeo.eu/) <br> (*powered by [CloudFerro](https://cloudferro.com/en/)*)|[Amazon Web Services](https://aws.amazon.com/)|
-|----------------|:--------------------:|
-|<span style=float:left><img src='./wekeo.jpeg' alt='WEkEO logo' align='left' width='120'><img src='./CloudFerro_logo_vertical.png' alt='cloudferro logo' width='180'></img>|<img src='./aws.png' alt='AWS logo' align='center' width='90'></img>|
-
 <br>
 
 <img src='./ESoWC-1024x512px-NEW-v2.jpg' alt='ESoWC' align='center' width='100%'></img>
@@ -31,6 +26,14 @@ Congratulations to the 11 teams that have been selected to be part of ECMWF Summ
 | [Creating Jupyter-based OpenIFS training material]() | - [Ayush Prasad]() | - [Olivier Marsden]() <br> - [Michael Lange]() <br> - [Adrien Oyono] | [AWS](https://aws.amazon.com/) |
 | [UNSEEN-Open](https://github.com/esowc/UNSEEN-open) | - [Timo Kelder]() | - [Julia Wagemann]() <br> - [Christel Prudhomme]() | |
 
+<br>
+
+Generous cloud computing ressources are provided by: 
+|the Copernicus DIAS service [WEkEO](https://www.wekeo.eu/) <br> (*powered by [CloudFerro](https://cloudferro.com/en/)*)|[Amazon Web Services](https://aws.amazon.com/)|
+|----------------|:--------------------:|
+|<span style=float:left><img src='./wekeo.jpeg' alt='WEkEO logo' align='left' width='120'><img src='./CloudFerro_logo_vertical.png' alt='cloudferro logo' width='180'></img>|<img src='./aws.png' alt='AWS logo' align='center' width='90'></img>|
+
+<br>
 
 
 ## How it works
