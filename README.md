@@ -4,8 +4,9 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 
 Generous cloud computing ressources are provided by: 
 * [Amazon Web Services](https://aws.amazon.com/)<br>
-<span style=left><img src='./aws.png' alt='AWS logo' align='left' width='90'></img></span> <br>
+<img src='./aws.png' alt='AWS logo' align='left' width='90'></img> <br>
 
+<br>
 * the Copernicus Data and Information Access Service (DIAS) [WEkEO](https://www.wekeo.eu/) powered by [CloudFerro](https://cloudferro.com/en/)<br>
 <span style=float:left><img src='./wekeo.jpeg' alt='WEkEO logo' align='left' width='120'></img></span><span style=float:left><img src='./CloudFerro_logo_vertical.png' alt='cloudferro logo' width='180'></img></span> 
 
