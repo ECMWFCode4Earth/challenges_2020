@@ -31,7 +31,7 @@ Congratulations to the 11 teams that have been selected to be part of ECMWF Summ
 Generous cloud computing ressources are provided by: 
 |the Copernicus DIAS service [WEkEO](https://www.wekeo.eu/) <br> (*powered by [CloudFerro](https://cloudferro.com/en/)*)|[European Weather Cloud](https://www.europeanweather.cloud/)|
 |----------------|:--------------------:|
-|<span style=float:left><img src='./wekeo.jpeg' alt='WEkEO logo' align='left' width='120'><img src='./CloudFerro_logo_vertical.png' alt='cloudferro logo' width='200'></img>|<img src='./ews_logo.png' alt='EWS logo' align='center' width='90'></img>|
+|<span style=float:left><img src='./wekeo.jpeg' alt='WEkEO logo' align='left' width='120'><img src='./CloudFerro_logo_vertical.png' alt='cloudferro logo' width='200'></img>|<img src='./ewc_logo.png' alt='EWS logo' align='center' width='90'></img>|
 
 <br>
 
