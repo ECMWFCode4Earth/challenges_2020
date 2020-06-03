@@ -45,10 +45,10 @@ Browse through the [ESoWC 2020 challenges](https://github.com/esowc/challenges_2
 The final ESoWC 2020 project teams were announced on 1 May 2020.
 
 
-### 3. Coding period: 4 May  - 31 Aug 2020
-The 4-month long coding period started 4 May 2020 and lasts until 31 August 2020. During this time, the selected teams team up with experienced mentors and experts in weather, climate, machine-learning and cloud-computing. <br> Follow the progress of the projects here on Github.
+### 3. Coding period: 4 May  - 30 Sep 2020
+The 5-month long coding period started 4 May 2020 and lasts until 30 September 2020. During this time, the selected teams team up with experienced mentors and experts in weather, climate, machine-learning and cloud-computing. <br> Follow the progress of the projects here on Github.
 
-### 4. Final ESoWC day @ECMWF: 25 September 2020
+### 4. Final ESoWC day @ECMWF: 16 October 2020
 The ESoWC day @ECMWF is the final day of the programme, where each team will present their project results.
 
 <br>
