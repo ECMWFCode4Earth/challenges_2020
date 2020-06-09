@@ -4,7 +4,7 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 
 <br>
 
-<img src='./ESoWC-1024x512px-NEW-v2.jpg' alt='ESoWC' align='center' width='100%'></img>
+<img src='./ESoWC-1024x512px-JUNE-v3.png' alt='ESoWC' align='center' width='100%'></img>
 
 <br>
 
