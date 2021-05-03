@@ -10,7 +10,7 @@ ECMWF Summer of Weather Code is a collaborative programme where each summer seve
 
 
 ## ESoWC 2020 Projects
-Congratulations to the 11 teams that have been selected to be part of ECMWF Summer of Weather Code 2020:
+Congratulations to the 11 teams that were part of ECMWF Summer of Weather Code 2020:
 
 | Project title | Team | Mentors | Supported by |
 | ---------- | --------------- | -------------- |---------------------|
@@ -35,7 +35,7 @@ Generous cloud computing ressources are provided by:
 <br>
 
 
-## How it works
+## ESoWC 2020 Timeline
 
 ### 1. Application period: 27 Jan - 22 Apr 2020
 Browse through the [ESoWC 2020 challenges](https://github.com/esowc/challenges_2020/issues) or develop your own project idea. Applications for ESoWC 2020 closed 22 April 2020.
@@ -48,7 +48,16 @@ The final ESoWC 2020 project teams were announced on 1 May 2020.
 The 5-month long coding period started 4 May 2020 and lasts until 30 September 2020. During this time, the selected teams team up with experienced mentors and experts in weather, climate, machine-learning and cloud-computing. <br> Follow the progress of the projects here on Github.
 
 ### 4. Final ESoWC day @ECMWF: 16 October 2020
-The ESoWC day @ECMWF is the final day of the programme, where each team will present their project results.
+The ESoWC day @ECMWF is the final day of the programme, where each team presented their project results. Watch the recordings:<br>
+* [Applying AI capabilities to address operations challenges in ECMWF products team](https://www.youtube.com/watch?v=oUZx28shIWk)
+* [HPC Performance Profiling Tool](https://www.youtube.com/watch?v=hInBkvAfuJ0)
+* [Conversational Virtual Assistant for users of ECMWF online products and services](https://www.youtube.com/watch?v=2IfNrdZhxFI)
+* [Compressing atmospheric data into its real information](https://www.youtube.com/watch?v=5A33r-fV_Vo)
+* [DeepGEFF - Forecasting wildfire danger](https://www.youtube.com/watch?v=6mtFKOIED0s)
+* [Air Quality Observation Classification](https://www.youtube.com/watch?v=y4hWq3VBVCA)
+* [Detect Anomaly in Air Quality Stations (DAAQS)](https://www.youtube.com/watch?v=2rN-fdkCDyE)
+* [Exploring deep learning techniques to detect and track tropical cyclones](https://www.youtube.com/watch?v=1Ie-_y7uGww)
+* [UNSEEN-Open](https://www.youtube.com/watch?v=-4kcuzFqeuI)
 
 <br>
 
